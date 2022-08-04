@@ -1,0 +1,24 @@
+{
+  "name": "server-monitoring-status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faridevnz/server-monitoring-status.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faridevnz/server-monitoring-status/issues"
+  },
+  "homepage": "https://github.com/faridevnz/server-monitoring-status#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
